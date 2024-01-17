@@ -1,0 +1,40 @@
+
+body {background-color: hsl(212, 45%, 89%);}
+
+.wrapper{
+    max-width: 1440px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 330px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.qr{
+    max-width: 300px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.intro{
+    font-weight: 700;
+
+}
+
+.description{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+
+}
+
+.qr-tile{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px
+}
